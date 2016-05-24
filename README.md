@@ -42,7 +42,7 @@ Find further information in the [Dynatrace community](https://community.dynatrac
 
 ![configuration](/img/conf/configuration_1.png) 
 
-![configuration](/img/conf/configuration_2.png) 
+![configuration](/img/conf/configuration_2.jpg) 
 
 <a name="use"/>
 ## Use the Visual Studio Extension

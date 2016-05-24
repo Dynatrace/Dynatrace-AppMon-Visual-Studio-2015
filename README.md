@@ -40,8 +40,10 @@ Find further information in the [Dynatrace community](https://community.dynatrac
 <a name="configuration"/>
 ## Configuration
 
+The settings for the extension are located under Tools / Dynatrace AppMon Extension Configuration
 ![configuration](/img/conf/configuration_1.png) 
 
+Configuration screen:
 ![configuration](/img/conf/configuration_2.jpg) 
 
 <a name="use"/>

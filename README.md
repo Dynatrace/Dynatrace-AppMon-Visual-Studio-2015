@@ -25,13 +25,17 @@ The Dynatrace Visual Studio Extension enable you to:
 ### Prerequisites
 
 * Dynatrace Application Monitoring Version: 6.1, 6.2, 6.3
-* Visual Studio Version: 2015
+* Visual Studio Version: 2015 (all editions supported)
 
 Find further information in the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Visual+Studio+2015+Extension).
 
 <a name="manual"/>
 ### Manual Installation
 
+* Download the plugin from the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Visual+Studio+2015+Extension)
+* Double-click on the VSIX file
+* Follow the steps displayed by the Visual Studio Extension Installer
+* Restart Visual Studio
 
 <a name="configuration"/>
 ## Configuration

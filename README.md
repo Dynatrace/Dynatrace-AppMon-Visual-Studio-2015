@@ -54,16 +54,13 @@ Configuration screen:
 <a name="launcher"/>
 ### Launcher
 
-The lancher will run applications with an injected Dynatrace Agent using the agent name and additional parameters defined in the run configuration:
+The lancher will run applications with an injected Dynatrace Agent using the agent name and additional parameters defined in the run configuration. The agent will output debug information into the console.
 
 ![edit run configurations](/img/use/launcher.png) 
 
 The launcher support the following launch mode:
 * ...
 
-The agent will output debug information into the console:
-
-![edit run configurations](/img/use/launcher_console.png) 
 
 
 <a name="source_code"/>
@@ -71,7 +68,7 @@ The agent will output debug information into the console:
 
 The Dynatrace Client enables you to analyze PurePaths down to the individual methods that have been instrumented in the context of the captured transaction. When you identify a problematic method either in the PurePath view or in the Methods view of the Dynatrace Client, you can use the Source Code Lookup to jump to the source code line if you have the Eclipse project open.
 
-![edit run configurations](/img/use/source_lookup.png) 
+![edit run configurations](/img/use/source_code_lookup.png) 
 
 <a name="feedback"/>
 ## Problems? Questions? Suggestions?

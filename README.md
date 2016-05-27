@@ -58,15 +58,14 @@ The lancher will run applications with an injected Dynatrace Agent using the age
 
 ![edit run configurations](/img/use/launcher.png) 
 
-The launcher support the following launch mode:
-* ...
 
+The launcher supports Windows and Web based project; Test projects are not yet supported.
 
 
 <a name="source_code"/>
 ### Source Code Look-up
 
-The Dynatrace Client enables you to analyze PurePaths down to the individual methods that have been instrumented in the context of the captured transaction. When you identify a problematic method either in the PurePath view or in the Methods view of the Dynatrace Client, you can use the Source Code Lookup to jump to the source code line if you have the Eclipse project open.
+The Dynatrace Client enables you to analyze PurePaths down to the individual methods that have been instrumented in the context of the captured transaction. When you identify a problematic method either in the PurePath view or in the Methods view of the Dynatrace Client, you can use the Source Code Lookup to jump to the source code line if you have the Visual Studio solution open.
 
 ![edit run configurations](/img/use/source_code_lookup.png) 
 

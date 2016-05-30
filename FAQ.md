@@ -17,4 +17,5 @@ Post any problems, questions or suggestions to the Dynatrace Community's [Applic
 
 test projects are not yet supported.
 
+To capture PurePaths and Test Automation data for Unit Tests run from Visual Studio, you need to instrument the process **TE.ProcessHost.Managed.exe** using the <a href="https://community.dynatrace.com/community/display/DOCDT63/.NET+Agent+Configuration" target="_blank">.NET Agent Configuration Tool</a>.
 

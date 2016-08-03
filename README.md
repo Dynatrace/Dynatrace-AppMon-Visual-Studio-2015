@@ -2,9 +2,8 @@
 
 # Dynatrace Visual Studio 2015 Extension
 
-The Dynatrace Visual Studio Extension enable you to:
-* launch applications with an injected Dynatrace Agent directly from Visual Studio
-* perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring
+The Dynatrace Visual Studio Extension enable you to launch applications with an injected Dynatrace Agent directly from Visual Studio
+and perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring
 
 * Download Latest Version: https://github.com/Dynatrace/Dynatrace-Visual-Studio-2015/releases/download/6.3.4.1/DynatraceAppMonPlugin.vsix
 * Visual Studio Extension on the Dynatrace Community: https://community.dynatrace.com/community/display/DL/Visual+Studio+2015+Extension

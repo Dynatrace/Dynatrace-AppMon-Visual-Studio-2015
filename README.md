@@ -26,7 +26,7 @@ and perform look-ups of sources files and methods from applications under diagno
 <a name="prerequisites"/>
 ### Prerequisites
 
-* Dynatrace Application Monitoring Version: 6.1, 6.2, 6.3
+* Dynatrace Application Monitoring Version: 6.1 and above
 * Visual Studio Version: 2015 (all editions supported)
 
 Find further information in the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Visual+Studio+2015+Extension).

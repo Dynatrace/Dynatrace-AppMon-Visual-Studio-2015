@@ -25,7 +25,7 @@ and perform look-ups of sources files and methods from applications under diagno
 
 <a name="prerequisites"/>
 ### Prerequisites
-* Visual Studio 2015
+* Visual Studio 2015 (all editions supported)
 * Dynatrace AppMon Server 6.3+
 * Dynatrace AppMon .NET agent installed on your machine (to run/test your application with the .NET agent)
 * Dynatrace AppMon Client running on your machine (for CodeLink) 

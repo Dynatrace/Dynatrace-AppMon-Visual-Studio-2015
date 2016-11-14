@@ -29,8 +29,6 @@ and perform look-ups of sources files and methods from applications under diagno
 * Dynatrace Application Monitoring Version: 6.3 and above
 * Visual Studio Version: 2015 (all editions supported)
 
-Find further information in the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Dynatrace+AppMon+Visual+Studio+Extension)
-
 <a name="installation"/>
 ### Installation
 

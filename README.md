@@ -2,6 +2,11 @@
 
 # Dynatrace Visual Studio 2015 Extension
 
+**This project is no longer maintained. 
+Please use [Dynatrace AppMon Visual Studio 2017 Extension](https://github.com/Dynatrace/Dynatrace-Visual-Studio-2017) 
+which is suitable for Visual Studio 2013, 2015 and 2017 (extension version 6.5.3+)**
+
+
 The Dynatrace Visual Studio Extension enable you to launch applications with an injected Dynatrace Agent directly from Visual Studio
 and perform look-ups of sources files and methods from applications under diagnosis in Dynatrace Application Monitoring.
 
